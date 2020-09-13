@@ -1,0 +1,39 @@
+﻿body {
+
+    background-color:#d2e7f1;
+}
+
+h1 {
+    text-align: center;
+    font-family: Gill Sans MT;
+    top: 20px;
+    margin-top: auto;
+    font-size: 40px;
+    background: #701F1F;
+    color: white;
+}
+
+#tablero{
+    margin-top: 40px;
+    width:480px;
+    height: 480px;
+    margin-left:auto;
+    margin-right: auto;
+    text-align:center;
+    
+}
+
+.celda{
+    background-color:#5b8f38;
+    float:left;
+    width: 60px;
+    height: 60px;
+    border-color:#ffd800;
+
+}
+
+.ficha {
+    border-radius: 50px;
+    margin-top: 5px;
+}
+
