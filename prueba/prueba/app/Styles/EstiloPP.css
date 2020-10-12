@@ -1,0 +1,97 @@
+﻿body {
+    background-color: #D6F1C9;
+}
+
+#principal {
+    background-color: #D6F1C9;
+    width: 800 px;
+    height: 800 px;
+}
+
+#Image1 {
+    margin-left: 10px;
+}
+
+#juegos {
+    width: 400px;
+    height: 300px;
+    float: left;
+}
+
+#logo {
+    width: 450px;
+    height: 287px;
+    margin-left: 420px;
+}
+
+
+#Button1 {
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-family: Gill Sans MT, bold;
+}
+
+#Button2 {
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-family: Gill Sans MT, bold;
+}
+
+#Button3 {
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-family: Gill Sans MT, bold;
+}
+
+#Button4 {
+    margin-left: 115px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    border-radius: 30px;
+    font-family: Gill Sans MT, bold;
+}
+
+#Button5 {
+    margin-left: 355px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border-radius: 30px;
+    font-family: Gill Sans MT, bold;
+}
+
+
+#cabecera {
+    text-align: center;
+    font-family: Gill Sans MT;
+    top: 20px;
+    margin-top: auto;
+    font-size: 20px;
+    background: #396B37;
+    color: white;
+}
+
+#botones {
+    margin-top: 50px;
+    margin-bottom: 10px;
+    margin-left: 60px;
+    width: 320px;
+    height: 200px;
+    border-radius: 20px;
+    font-family: Gill Sans MT, bold;
+}
+
+#Image1 {
+    margin-left: 130px;
+}
+
+.valorU {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
