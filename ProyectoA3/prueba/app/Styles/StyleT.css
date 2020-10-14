@@ -1,0 +1,142 @@
+﻿body {
+    background-color: #d2e7f1;
+}
+
+h1 {
+    text-align: center;
+    font-family: Gill Sans MT;
+    top: 20px;
+    margin-top: auto;
+    font-size: 40px;
+    background: #701F1F;
+    color: white;
+}
+
+#tablero{
+    margin-top: 24px;
+    width:626px;
+    height: 626px;
+    margin-left:23px;
+    text-align:center;
+    float:left;
+    
+}
+
+.celda {
+    background-color: Green;
+    float: left;
+    width: 70px;
+    height: 70px;
+    border-color: black;
+    border-style:solid;
+}
+
+.ficha {
+    border-radius: 50px;
+    margin-top: 10px;
+}
+
+.letraC{
+    width:77px;
+    height:16px;
+    float: left;
+    background-color:#ebd56b;
+}
+
+.letraF {
+    width: 17px;
+    height: 78px;
+    float: left;
+    background-color: #ebd56b;
+}
+
+.datoJ{
+    background-color:#5e8b6a;
+    border-radius:10px;
+    font-size:20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#col {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 621px;
+    height: 12px;
+}
+
+#principal{
+    width:1000px;
+    height:700px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#fil {
+    text-align: center;
+    margin-top:40px;
+    margin-right:130px;
+    width: 20px;
+    height: 626px;
+    float: right;
+}
+
+#jugadores{
+    float:left;
+    width:169px;
+    height:582px;
+    margin-top: 46px;
+}
+
+#jugador2{
+    margin-top:40px;
+}
+
+#tituloJ1 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#nomJ1{
+    margin-left:20px;
+}
+
+#tituloJ2 {
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+#nomJ2 {
+    margin-left: 20px;
+}
+
+#colorJ1{
+    margin-left:15px;
+}
+#cajaC{
+    width:20px;
+    height:20px;
+    margin-left:10px;
+}
+
+#colorJ2 {
+    margin-left: 15px;
+}
+
+#cajaC2 {
+    width: 20px;
+    height: 20px;
+    margin-left: 10px;
+}
+
+.datJ {
+    margin-left: 15px;
+}
+
+.vos{
+    margin-left:10px;
+    background-color:red;
+    color:red;
+}
+
+
