@@ -1,0 +1,89 @@
+﻿body {
+    background-color: azure;
+}
+
+#cabecera {
+    text-align: center;
+    font-family: Gill Sans MT;
+    top: 20px;
+    margin-top: auto;
+    font-size: 20px;
+    background: #396B37;
+    color: white;
+}
+
+#M{
+    margin-left:60px;
+}
+
+#X{
+    margin-left:15px;
+}
+
+#N{
+    margin-left:10px;
+}
+
+#jugador2{
+    height: 275px;
+}
+
+#listaUsuarios{
+    margin-left:300px;
+}
+
+#nombreNR{
+    margin-left:90px;
+}
+
+#DTablero{
+    height:300px;
+}
+
+#BCP{
+    margin-left:60px;
+}
+
+#comenzar {
+    border-radius: 30px;
+    background: #5EBF67;
+    font-family: Gill Sans MT, bold;
+    font-size: 20px;
+    text-align: center;
+    margin-left:481px;
+    margin-right:auto;
+}
+
+.error {
+    margin-left: 20px;
+    font-size: 15px;
+    color: #6E1111;
+}
+
+.carga{
+    margin-left: 20px;
+}
+
+.jugadores {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #d9902a;
+    width: 1000px;
+    height: 224px;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+
+.datos {
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+.Sdatos {
+    margin-left: 30px;
+}
+
+.optC {
+    margin-left: 20px;
+}
