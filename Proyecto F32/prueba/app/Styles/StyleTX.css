@@ -1,0 +1,30 @@
+﻿body {
+    background-color: #d2e7f1;
+}
+
+h1 {
+    text-align: center;
+    font-family: Gill Sans MT;
+    top: 20px;
+    margin-top: auto;
+    font-size: 40px;
+    background: #701F1F;
+    color: white;
+}
+
+.celda {
+    background-color: Green;
+    float: left;
+    width: 70px;
+    height: 70px;
+    border-color: black;
+    border-style: solid;
+}
+
+.ficha {
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left:10px;
+    height:50px;
+    width:50px;
+}
